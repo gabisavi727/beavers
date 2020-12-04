@@ -1,0 +1,41 @@
+button {
+    background-color:blue;
+    color:red;
+    border-radius:10px;
+    box-shadow: 0 0 10px 2px;
+    box-shadow: blue
+}
+a {
+    color: yellow;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration:underline;
+    color:rgb(92, 221, 120)
+}
+button:hover {
+    background-color:rgb(54, 32, 136);
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+body {
+    background-color: rgb(107, 60, 60);
+}
+body{
+    height:100px
+}
+a.mail-type {
+    color:blue
+}
+
+body.a.typefore-share {
+    margin:50px;
+}
+
+#typeform {
+    padding:50%;
+}
+header {
+    background-color:white
+}
